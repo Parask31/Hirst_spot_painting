@@ -3,6 +3,7 @@ import random
 tim = Turtle()
 screen = Screen()
 tim.speed(15)
+tim.hideturtle()
 
 screen.colormode(255)
 
